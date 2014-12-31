@@ -8,7 +8,7 @@ $(function() {
 	});
 
 	// Backstretchs
-	$("#header").backstretch("images/3.jpg");
+	$("#header").backstretch("images/4.jpg");
 	$("#services").backstretch("images/3.jpg");
 
 	//Form Submission
